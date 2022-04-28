@@ -1,0 +1,17 @@
+table{
+    border: 0px;
+    width: 90%;
+}
+
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+}
+
+tr{
+    display:table-row;
+}
+
+td{
+    display: table-cell;
+}
